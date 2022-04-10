@@ -30,8 +30,12 @@ void function(){
     //inner functionalities!
 }
 
+
 int main()
 {
     function();
+    
     return 0;
-}
+} //Main function!
+
+
